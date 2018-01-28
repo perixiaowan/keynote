@@ -3,51 +3,44 @@
     {
       "author": "微信聊天机器人",
       "homepage": "https://github.com/Lellansin",
-      "path": "FB intro - Lellansin.ppt.md",
-      "title": "函数式编程简介",
-      "weibo": ""
+      "path": "weixin-chat.md",
+      "title": "聊天机器人",
     },
     {
-      "author": "党徽",
+      "author": "党徽-十九大解读",
       "homepage": "https://github.com/jiyinyiyong",
-      "path": "respo.md",
-      "title": "Respo: a React-like DOM library",
-      "weibo": ""
+      "path": "danghui.md",
+      "title": "十九大党章解读",
     },
     {
       "author": "驾校考试管理系统",
-      "homepage": "https://github.com/DavidCai1993",
-      "path": "Express vs Koa - 蔡伟.ppt.md",
-      "title": "Express & Koa",
-      "weibo": ""
+      "homepage": "http://myproject.liuxiaowan.com:8080/driving/",
+      "path": "driving.md",
+      "title": "驾校考试管理系统",
     },
     {
       "author": "eNews下载界面",
-      "homepage": "https://github.com/lmk123",
-      "path": "Runner - lmk123.md",
-      "title": "开发 Runner 遇到的问题",
-      "weibo": ""
+      "homepage": "http://203.192.12.26/Download/index.html",
+      "path": "eNews-downloadpage.md",
+      "title": "eNews敏感采集下载界面",
     },
     {
-      "author": "聊天室",
-      "homepage": "https://github.com/Rlilyyy",
-      "path": "Samesite机制.md",
-      "title": "SameSite机制",
-      "weibo": ""
+      "author": "及焚聊天室",
+      "homepage": "http://chat.liuxiaowan.com/",
+      "path": "wechat.md",
+      "title": "及焚聊天室",
     },
     {
       "author": "html5-电子书",
-      "homepage": "https://github.com/GYF1",
-      "path": "frontend-able.md",
-      "title": "前端ABLE",
-      "weibo": ""
+      "homepage": "http://www.liuxiaowan.com/html5-ebook",
+      "path": "html5-ebook.md",
+      "title": "html5-电子书",
     },
     {
       "author": "h5轻应用-农产品摇一摇",
-      "homepage": "https://github.com/CarterLi",
-      "path": "TypeScript - Carter.md",
-      "title": "TypeScript = Type + JavaScript",
-      "weibo": ""
+      "homepage": "http://www.liuxiaowan.com/farmshake",
+      "path": "farmshake.md",
+      "title": "轻应用-农产品摇一摇",
     },
     {
       "author": "h5轻应用-2",
