@@ -1,4 +1,4 @@
-title: 函数式编程简介
+title: 微信聊天机器人
 speaker: Lellansin
 url: https://github.com/Lellansin
 transition: zoomin
