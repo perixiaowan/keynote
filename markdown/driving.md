@@ -1,8 +1,6 @@
-title: DebugGap跨平台开发和调试h5
-speaker: vicwang163
-url: https://github.com/vicwang163
-transition: move
-theme: moon
+# 驾校考试评分系统
+<p>编程语言：Java+Hibernate+Spring</p>
+<p>数据库：mysql</p>
 
 ----
 

@@ -1,7 +1,6 @@
-title: 4月14日分享
-speaker: David Cai
-url: https://github.com/DavidCai1993
-transition: move
+# eNews敏感采集软件下载界面
+<p>编程语言：html5+CSS3+JavaScript</p>
+
 
 ----
 

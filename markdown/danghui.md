@@ -1,7 +1,6 @@
-title: 9月18日分享
-speaker: 杨一新
-url: https://github.com/ExinCoda
-transition: move
+# 十九大报告解读
+<p>编程语言：R</p>
+
 
 ----
 
