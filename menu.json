@@ -4,51 +4,50 @@
       "author": "微信聊天机器人",
       "homepage": "https://github.com/Lellansin",
       "path": "weixin-chat.md",
-      "title": "聊天机器人",
+      "title": "聊天机器人"
     },
     {
       "author": "党徽-十九大解读",
       "homepage": "https://github.com/jiyinyiyong",
       "path": "danghui.md",
-      "title": "十九大党章解读",
+      "title": "十九大党章解读"
     },
     {
       "author": "驾校考试管理系统",
       "homepage": "http://myproject.liuxiaowan.com:8080/driving/",
       "path": "driving.md",
-      "title": "驾校考试管理系统",
+      "title": "驾校考试管理系统"
     },
     {
       "author": "eNews下载界面",
       "homepage": "http://203.192.12.26/Download/index.html",
       "path": "eNews-downloadpage.md",
-      "title": "eNews敏感采集下载界面",
+      "title": "eNews敏感采集下载界面"
     },
     {
       "author": "及焚聊天室",
       "homepage": "http://chat.liuxiaowan.com/",
       "path": "wechat.md",
-      "title": "及焚聊天室",
+      "title": "及焚聊天室"
     },
     {
       "author": "html5-电子书",
       "homepage": "http://www.liuxiaowan.com/html5-ebook",
       "path": "html5-ebook.md",
-      "title": "html5-电子书",
+      "title": "html5-电子书"
     },
     {
       "author": "h5轻应用-农产品摇一摇",
       "homepage": "http://www.liuxiaowan.com/farmshake",
       "path": "farmshake.md",
-      "title": "轻应用-农产品摇一摇",
+      "title": "轻应用-农产品摇一摇"
     },
     {
       "author": "h5轻应用-2",
       "homepage": "https://github.com/axemea",
       "path": "Abstract Thinking - axemea.html",
       "title": "抽象思维 - Canvas绘制‘饿了么’Logo",
-      "type": "html",
-      "weibo": ""
+      "type": "html"
     }
   ]
 }

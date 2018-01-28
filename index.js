@@ -41,7 +41,6 @@ const init = menu => {
         <a class="content" href="${value.path}&title=${value.title}"><div class="arrow"></div>${value.title}</a>
         <div class="info-wrapper">
           <a class="icon icon-github" href="${value.homepage}"></a>
-          <a class="icon icon-weibo" href="${value.weibo}"></a>
         </div>
       </li>`;
     result += html;
