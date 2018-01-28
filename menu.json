@@ -1,214 +1,59 @@
 {
   "list": [
     {
-      "author": "黄鼎恒",
+      "author": "微信聊天机器人",
       "homepage": "https://github.com/Lellansin",
       "path": "FB intro - Lellansin.ppt.md",
       "title": "函数式编程简介",
       "weibo": ""
     },
     {
-      "author": "题叶",
+      "author": "党徽",
       "homepage": "https://github.com/jiyinyiyong",
       "path": "respo.md",
       "title": "Respo: a React-like DOM library",
       "weibo": ""
     },
     {
-      "author": "蔡伟",
+      "author": "驾校考试管理系统",
       "homepage": "https://github.com/DavidCai1993",
       "path": "Express vs Koa - 蔡伟.ppt.md",
       "title": "Express & Koa",
       "weibo": ""
     },
     {
-      "author": "李名凯",
+      "author": "eNews下载界面",
       "homepage": "https://github.com/lmk123",
       "path": "Runner - lmk123.md",
       "title": "开发 Runner 遇到的问题",
       "weibo": ""
     },
     {
-      "author": "李滨泓",
+      "author": "聊天室",
       "homepage": "https://github.com/Rlilyyy",
       "path": "Samesite机制.md",
       "title": "SameSite机制",
       "weibo": ""
     },
     {
-      "author": "郭银锋",
+      "author": "html5-电子书",
       "homepage": "https://github.com/GYF1",
       "path": "frontend-able.md",
       "title": "前端ABLE",
       "weibo": ""
     },
     {
-      "author": "李通洲",
+      "author": "h5轻应用-农产品摇一摇",
       "homepage": "https://github.com/CarterLi",
       "path": "TypeScript - Carter.md",
       "title": "TypeScript = Type + JavaScript",
       "weibo": ""
     },
     {
-      "author": "喻争",
+      "author": "h5轻应用-2",
       "homepage": "https://github.com/axemea",
       "path": "Abstract Thinking - axemea.html",
       "title": "抽象思维 - Canvas绘制‘饿了么’Logo",
-      "type": "html",
-      "weibo": ""
-    },
-    {
-      "author": "汤伟伟",
-      "homepage": "https://github.com/keepsilentw",
-      "path": "Transform Matrix.md",
-      "title": "CSS3 Transform Matrix",
-      "weibo": ""
-    },
-    {
-      "author": "杨一新",
-      "homepage": "https://github.com/ExinCoda",
-      "path": "Dart - 杨一新.md",
-      "title": "Dart",
-      "weibo": ""
-    },
-    {
-      "author": "黄鼎恒",
-      "homepage": "https://github.com/Lellansin",
-      "path": "手工撸个监控系统 -  黄鼎恒.md",
-      "title": "手工撸个监控系统",
-      "weibo": ""
-    },
-    {
-      "author": "王骆菲",
-      "homepage": "https://github.com/vicwang163",
-      "path": "DebugGap - 王骆菲.md",
-      "title": "DebugGap跨平台开发和调试h5",
-      "weibo": ""
-    },
-    {
-      "author": "梁晨",
-      "homepage": "",
-      "path": "起点中文网的的 Web 改造之路 - 梁晨.md",
-      "title": "起点中文网的的 Web 改造之路",
-      "weibo": ""
-    },
-    {
-      "author": "李寅侃",
-      "homepage": "Yinkan Li @ ESHIPPING",
-      "path": "写好业务逻辑 - 李寅侃.md",
-      "title": "如何写好业务逻辑",
-      "weibo": ""
-    },
-    {
-      "author": "夏浩茗",
-      "homepage": "https://github.com/Smallpath",
-      "path": "vue2服务端渲染 - 夏浩茗.md",
-      "title": "vue2服务端渲染",
-      "weibo": ""
-    },
-    {
-      "author": "周重阳",
-      "homepage": "https://github.com/wodog",
-      "path": "在命令行中处理图像 - 周重阳.md",
-      "title": "在命令行中处理图像",
-      "weibo": ""
-    },
-    {
-      "author": "徐亚光",
-      "homepage": "https://github.com/sunopar",
-      "path": "前端工程师快速入侵ios开发-徐亚光.md",
-      "title": "前端工程师快速入侵ios开发",
-      "weibo": ""
-    },
-    {
-      "author": "孙卓怡",
-      "homepage": "https://github.com/Sunzhuoyi",
-      "path": "The humble border-radius - 孙卓怡.md",
-      "title": "The humble border-radius",
-      "weibo": ""
-    },
-    {
-      "author": "葛展鹏",
-      "homepage": "https://github.com/jsongzp",
-      "path": "搭建一款前端脚手架 - 葛展鹏.md",
-      "title": "搭建一款前端脚手架",
-      "weibo": ""
-    },
-    {
-      "author": "魏陈南",
-      "homepage": "https://github.com/kinglisky",
-      "path": "弹幕的二三事 - 魏陈南.md",
-      "title": "关于弹幕的二三事",
-      "weibo": ""
-    },
-    {
-      "author": "马绪双",
-      "homepage": "https://github.com/maxushuang",
-      "path": "Travel To Sichuan - 马绪双.md",
-      "title": "Travel To Sichuan",
-      "weibo": ""
-    },
-    {
-      "author": "袁德鑫",
-      "homepage": "https://github.com/galenyuan",
-      "path": "What is pure function - 袁德鑫.md",
-      "title": "What is pure function",
-      "weibo": ""
-    },
-    {
-      "author": "李名凯",
-      "homepage": "https://github.com/lmk123",
-      "path": "上海迪士尼游玩攻略 - 李名凯.md",
-      "title": "上海迪士尼游玩攻略",
-      "weibo": ""
-    },
-    {
-      "author": "张成",
-      "homepage": "https://github.com/ProceedCheng",
-      "path": "谈谈移动端上的滚动 - 张成.md",
-      "title": "谈谈移动端上的滚动",
-      "weibo": ""
-    },
-    {
-      "author": "高春毅",
-      "homepage": "https://github.com/sunfishgao",
-      "path": "C++ 网络库那点事儿 - 高春毅.md",
-      "title": "c++ 网络库那点事儿",
-      "author": "张凯",
-      "homepage": "https://github.com/damao1989",
-      "path": "Generator - damao.html",
-      "title": "Generator与异步编程",
-      "type": "html",
-      "weibo": ""
-    },
-    {
-      "author": "张伟",
-      "homepage": "https://github.com/jerry-i",
-      "path": "server-side-rendering.html",
-      "title": "服务端渲染",
-      "type": "html",
-      "weibo": ""
-    },
-    {
-      "author": "黄健",
-      "homepage": "https://github.com/bornkiller",
-      "path": "webpack-HMR.html",
-      "title": "webpack HMR探索",
-      "type": "html",
-      "weibo": ""
-    },
-    {
-      "author": "朱良臻",
-      "homepage": "https://github.com/zhuscat",
-      "path": "浅谈 Functor - 朱良臻.md",
-      "title": "浅谈 Functor",
-      "weibo": ""
-    },
-    {
-      "author": "喻争",
-      "homepage": "https://github.com/axemea",
-      "path": "vue-amap.html",
-      "title": "浅析第三方服务与 Vue 的结合",
       "type": "html",
       "weibo": ""
     }
