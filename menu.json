@@ -3,7 +3,7 @@
     {
       "author": "微信聊天机器人",
       "homepage": "https://github.com/Lellansin",
-      "path": "weixin-chat.md",
+      "path": "weixinrobot.md",
       "title": "聊天机器人"
     },
     {
@@ -21,7 +21,7 @@
     {
       "author": "eNews下载界面",
       "homepage": "http://203.192.12.26/Download/index.html",
-      "path": "eNews-downloadpage.md",
+      "path": "eNewsdownload.md",
       "title": "eNews敏感采集下载界面"
     },
     {
