@@ -19,6 +19,12 @@
       "title": "eNews敏感采集下载界面"
     },
     {
+      "author": "验证码-eNews",
+      "homepage": "https://www.xinhuaenews.com",
+      "path": "validcode.md",
+      "title": "eNews验证码"
+    },
+    {
       "author": "内容即焚聊天室",
       "homepage": "http://project.liuxiaowan.com/",
       "path": "groupchat.md",

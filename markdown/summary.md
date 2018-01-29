@@ -21,7 +21,8 @@
 
 ## eNews
 
-- 参与敏感信息采集项目的后期项目建设和运维工作，和对部分代码的开发和修改工作；
+- 参与eNews日常运维工作和部分代码开发和修复工作；
+- 参与eNews敏感信息采集项目的后期项目建设；
 - 参与对大公报eNews安卓版和IOS版代码bug修复工作；
 
 
@@ -29,7 +30,8 @@
 
 ## 一体化
 
-- 参与一体化日常运维和接口的修复工作
+- 参与一体化日常运维工作；
+- 参与一体化接口的修复工作；
 
 ### 技术改造
 
@@ -74,6 +76,8 @@
 ![Spring实战](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/springinaction.jpg?raw=true)
 
 ----
+
+![黑客](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/heike.jpg?raw=true)
 
 ## 综述
 
