@@ -1,6 +1,6 @@
-# 个人简介
-<p> 刘晓婉 </p>
-
+# 个人工作简介
+<p> 汇报人：全媒体-刘晓婉 </p>
+<p> 导师：张建生 </p>
 ----
 
 ## [刘晓婉](http://www.liuxiaowan.com)
@@ -15,51 +15,67 @@
 * 自主学习并在网络课程中获得两张证书
 * 自主学习python语言和机器学习的知识
 * 阅读若干本书
+* 搭建专属的博客，可自定义
 
 ----
 
 ## eNews
+
+- 参与敏感信息采集项目的后期项目建设和运维工作，和对部分代码的开发和修改工作；
+- 参与对大公报eNews安卓版和IOS版代码bug修复工作；
 
 
 ----
 
 ## 一体化
 
-
-----
+- 参与一体化日常运维和接口的修复工作
 
 ## 技术改造
-
+- 参与亚欧总分社技术改造工作，负责亚欧一体化的系统的安装部署，数据库搭建，各个中间件的安装和部署，运维管理等总体架构实施和维护工作；
 
 ----
 
 ## 移动报道
 
+- 2016年3月的两会移动报道工作
+- 2016年9月的丝绸之路移动报道工作
+- 2017年5月的一带一路移动报道工作；
+- 参与后方各种移动报道保障工作；
 
 ----
 
 ## 论文
 
+[基于HTML5技术的轻应用在新闻领域的探索与实践](http://liuxiaowan.com/paper/%E5%9F%BA%E4%BA%8EHTML5%E6%8A%80%E6%9C%AF%E7%9A%84%E8%BD%BB%E5%BA%94%E7%94%A8%E5%9C%A8%E6%96%B0%E9%97%BB%E9%A2%86%E5%9F%9F%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B8%8E%E5%AE%9E%E8%B7%B5v1.2.pdf)
+
 ----
 
-## 网络课程
+## 网络课程证书
 
+- [Machine Learning](https://www.coursera.org/account/accomplishments/verify/FW95GW7EQCJ2)
+- [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/verify/H2ZHFRBD7L4J)
 ----
 
 ## python和机器学习
 
-
-
+- 学习python编程语言，用python实现新采编接口的调用返回的json格式数据转换成eNews的入库格式
+- 了解了机器学习的基本原理，包括聚类，分类，异常检测，并能够将其应用小的场景中
 ----
 
 ## 阅读书目
 
-[Flutter](https://flutter.io/): Android & iOS
-
-[WebDev](https://webdev.dartlang.org/): Web
+![数学之美](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/mathbeauty.jpg?raw=true)
+![Maven实战](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/maveninaction.jpg?raw=true)
+![Python学习手册](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/LearningPython.jpg?raw=true)
 
 ----
 
-## Thanks
+## 综述
+
+- 提高了分析问题和解决问题的能力
+- 增强了业务处理水平
+- 扩大了自己的知识面
+- 提升了动手的能力
 
 [返回首页](http://www.liuxiaowan.com/keynote/)
