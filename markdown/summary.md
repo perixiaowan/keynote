@@ -31,7 +31,8 @@
 
 - 参与一体化日常运维和接口的修复工作
 
-## 技术改造
+### 技术改造
+
 - 参与亚欧总分社技术改造工作，负责亚欧一体化的系统的安装部署，数据库搭建，各个中间件的安装和部署，运维管理等总体架构实施和维护工作；
 
 ----
@@ -67,7 +68,10 @@
 
 ![数学之美](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/mathbeauty.jpg?raw=true)
 ![Maven实战](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/maveninaction.jpg?raw=true)
+
+----
 ![Python学习手册](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/LearningPython.jpg?raw=true)
+![Spring实战](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/springinaction.jpg?raw=true)
 
 ----
 
