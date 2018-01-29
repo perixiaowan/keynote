@@ -10,7 +10,7 @@
 
 ## 入口
 
-![党徽](http://www.liuxiaowan.com/shijiudaCloud/)
+[党徽](http://www.liuxiaowan.com/shijiudaCloud/)
 
 ----
 
