@@ -7,7 +7,7 @@
 
 
 ### 2016年1月--至今
-* 参与eNews部分代码代码的开发和修复工作
+* 参与eNews部分代码的开发和修复工作
 * 参与一体化的运维和接口修复工作
 * 参与亚欧总分社一体化技术改造工作
 * 参与各种移动报道前后方技术保障工作
@@ -78,6 +78,8 @@
 ----
 
 ![黑客](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/heike.jpg?raw=true)
+
+----
 
 ## 综述
 
