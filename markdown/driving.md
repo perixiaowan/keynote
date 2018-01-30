@@ -39,4 +39,9 @@
 
 ![](https://github.com/perixiaowan/MarkdownPhotos/blob/master/project/driving/user.png?raw=true)
 
+----
+## 入口地址
+
+[驾校考试管理系统](http://project.liuxiaowan.com:8080/driving/)
+
 ### [返回首页](http://www.liuxiaowan.com/keynote/)
