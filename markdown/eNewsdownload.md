@@ -11,16 +11,10 @@ eNews敏感采集系统提供了Android和pc版的应用软件，为了给用户
 
 ----
 
-## 入口
+## 入口地址
 
 [eNews敏感采集下载页面](http://203.192.12.26/Download/index.html)
 
-
-----
-
-## Thanks
-
 ### [返回首页](http://www.liuxiaowan.com/keynote/)
-
 
 

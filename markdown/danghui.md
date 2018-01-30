@@ -4,10 +4,6 @@
 
 ----
 
-## [十九大报告全文](http://www.liuxiaowan.com/shijiudaCloud/shijiuda-quan.txt)
-
-----
-
 ## 入口
 
 [党徽](http://www.liuxiaowan.com/shijiudaCloud/)
@@ -36,8 +32,5 @@ wordcloud2(ff,figPath='danghui.jpg',size=2,color='yellow',backgroundColor='red')
 
 ### [五角星](http://www.liuxiaowan.com/shijiudaCloud/wujiaoxing.html) & [党字](http://www.liuxiaowan.com/shijiudaCloud/dangzi.html)
 
-----
-
-## Thanks
 
 ### [返回首页](http://www.liuxiaowan.com/keynote/)

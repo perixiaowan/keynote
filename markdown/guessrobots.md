@@ -21,13 +21,8 @@
 
 ----
 
-## 入口
+## 入口地址
 
 [听歌曲，猜机器人](http://www.liuxiaowan.com/guessrobots)
 
-----
-
-## Thanks
-
-### [返回首页](http://www.liuxiaowan.com/keynote/)
 
