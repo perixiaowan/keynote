@@ -53,6 +53,12 @@
       "homepage": "http://www.liuxiaowan.com/guessrobots",
       "path": "guessrobots.md",
       "title": "h5轻应用-听歌曲猜机器人"
+    },
+    {
+      "author": "刘晓婉的博客",
+      "homepage": "http://www.liuxiaowan.com",
+      "path": "blog.md",
+      "title": "刘晓婉的博客"
     }
   ]
 }

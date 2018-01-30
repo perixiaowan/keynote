@@ -36,6 +36,7 @@
 ### 技术改造
 
 - 参与亚欧总分社技术改造工作，负责亚欧一体化的系统的安装部署，数据库搭建，各个中间件的安装和部署，运维管理等总体架构实施和维护工作；
+- 为亚欧技术管理员定制开发稿件解锁小工具
 
 ----
 
@@ -78,7 +79,7 @@
 ----
 
 ![黑客](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/heike.jpg?raw=true)
-
+![用Python写网络爬虫](https://github.com/perixiaowan/MarkdownPhotos/blob/master/ebooks/crawler.jpg?raw=true)
 ----
 
 ## 综述
